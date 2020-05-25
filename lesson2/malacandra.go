@@ -12,7 +12,7 @@ var (
 func main() {
 	var speed = distance / hoursPerDay / days
 
-	fmt.Println("Speed needed to travel in 28 days is", speed, "km/h")
+	fmt.Println("Speed needed to travel in", days, "days is", speed, "km/h")
 
 	apendixSolution()
 }
