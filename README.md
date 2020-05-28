@@ -7,6 +7,7 @@ Learning to program in Golang using the following resources:
 ### Links
 
 - https://golang.org/doc/effective_go.html
+- https://gobyexample.com
 
 ### Books
 
@@ -14,3 +15,7 @@ Learning to program in Golang using the following resources:
 - The Go Programming Language
 - Learn Data Structures and Algorithms with Golang
 - Learning Functional Programming in Go
+
+### Courses
+
+- https://www.udemy.com/course/learn-how-to-code/
