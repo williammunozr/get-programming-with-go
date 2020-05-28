@@ -4,7 +4,12 @@ I was looking for a new programming language to learn, I started with Python, I 
 
 Learning to program in Golang using the following resources:
 
+### Links
+
 - https://golang.org/doc/effective_go.html
+
+### Books
+
 - Get Programming with Go
 - The Go Programming Language
 - Learn Data Structures and Algorithms with Golang
