@@ -14,9 +14,7 @@ Learning to program in Golang using the following resources:
 ### Books
 
 - Get Programming with Go
-
-Source Code: https://github.com/nathany/get-programming-with-go
-
+- Source Code: https://github.com/nathany/get-programming-with-go
 - The Go Programming Language
 - Learn Data Structures and Algorithms with Golang
 - Learning Functional Programming in Go
