@@ -1,0 +1,2 @@
+docker build -t http_server .
+docker run --name http_server --rm -p 8180:8180 http_server
